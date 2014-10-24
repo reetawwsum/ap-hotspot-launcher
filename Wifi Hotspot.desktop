@@ -1,0 +1,17 @@
+[Desktop Entry]
+
+Version=1.0
+
+Name=Hotspot
+
+Comment=Wifi Hotspot
+
+Exec=/home/reetawwsum/Documents/hotspot/hotspot.sh
+
+Icon=/home/reetawwsum/Documents/hotspot/hotspot.png
+
+Terminal=false
+
+Type=Application
+
+Categories=Utility;Application;
